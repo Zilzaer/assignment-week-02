@@ -1,0 +1,23 @@
+can use variables in an array to store image data
+
+Sandstone.jpg, desc = usa, Utah, sandstone rock formation, red and orangish rocks, nation park
+
+
+mountainrange.jpg, desc = Usa, California, Mountain peak, sunrise hitting mountain peaks, sunrise at alabama hills
+
+
+Moor.jpg, desc = Germany, Pietzmoor, marsh, moor, greenery, conntongrass flowering in moorlands
+
+
+snowymountain.jpg, desc = Usa, Washington, Snow covered mountain range, glacier, peak, snow covered woodloand
+
+bambooforrest.png, desc = Japan, wakayamafarm, bamboo forrest, a groove of bamboo with sunlight peaking through, greenery
+
+
+beach.png, desc = bahamas, beach, ocean, palm trees, beach hut, an image of the beach taken from the ocean shoreline with view of palm tress and a beach hut on a bright day
+
+
+waterfall.png, desc = Canada, Niagra falls, waterfall, A large arcing view of niagra falls cascading waterfall, white watefall
+
+
+lama.png, desc = chille, san pedro de alacama, antelope, mountain, a lama standing in a arid landscape with a mountain in the background
